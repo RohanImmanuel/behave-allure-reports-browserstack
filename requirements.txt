@@ -3,3 +3,4 @@ browserstack-local
 paver
 selenium
 psutil
+allure-behave
